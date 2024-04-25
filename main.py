@@ -3,7 +3,6 @@ import os
 import pandas as pd
 
 
-st.
+st.set_page_config(page_title="Pisa2022 Data Analysis Tool")
 st.title("Data Vitualization")
 
-s
